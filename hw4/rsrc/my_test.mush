@@ -1,0 +1,3 @@
+10 cat "/usr/share/dict/words" > "new_txt8.out"
+12 cat "new_txt8.out" | grep hi | grep hills>@&
+run
